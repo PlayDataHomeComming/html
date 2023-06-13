@@ -1,0 +1,19 @@
+body{
+    background-color: cyan;
+    text-align: center;
+}
+.brown{
+    background-color: brown;
+}
+
+#gray{
+    background-color: gray;
+}
+.font-gray{
+    color: gray;
+}
+
+#font-gray{
+    color: gray;
+}
+
